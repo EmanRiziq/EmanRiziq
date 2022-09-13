@@ -1,7 +1,6 @@
 
 ## Hi all
 ## i'm ***Eman Riziq***  
-- :jordan:
 - 🌱 I’m currently learning Java Script
 - 📫 How to reach me:
 
