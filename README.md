@@ -3,7 +3,6 @@
 ## i'm ***Eman Riziq***  
 - 🌱 I’m currently learning Java Script
 - 📫 How to reach me: 
-
     - [LinkedIn](www.linkedin.com/in/eman-riziq)
     - :email: emanriziq@gmail.com
     
